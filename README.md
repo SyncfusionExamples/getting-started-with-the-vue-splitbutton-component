@@ -1,6 +1,8 @@
 # Getting Started with the Vue Dropdown Menu Component
 The [Vue Dropdown Menu](https://www.syncfusion.com/vue-components/vue-dropdown-menu?utm_source=github&utm_medium=listing&utm_campaign=vue-dropdown-menu-github-samples) is a graphical user interface component that lets users choose from a list of actions that can be triggered. A quick start Vue project that shows how to add the Vue Dropdown Menu component to a Vue application. It shows how to add separators and display icons in the Dropdown Menu. It also shows how to navigate to the other web page when an action item is clicked. 
 
+## Project prerequisites
+
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?

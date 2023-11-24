@@ -16,7 +16,7 @@ Users tend to perceive visual information better than text. The Vue Dropdown Men
 
 ### Popup menu
 
-The popup menu is a toggleable container that holds a list of action items or custom content that will open or close when the button is clicked. You can customize all the items in a dropdown menu.
+The [popup menu](https://ej2.syncfusion.com/vue/documentation/drop-down-button/popup-items?utm_source=github&utm_medium=listing&utm_campaign=vue-dropdown-menu-github-samples) is a toggleable container that holds a list of action items or custom content that will open or close when the button is clicked. You can customize all the items in a dropdown menu.
 
 ### Menu divider and separator
 
